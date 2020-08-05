@@ -24,6 +24,9 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atom]
+[<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][electron]
+[<img align="left" alt="Aseprite" width="26px" src="https://raw.githubusercontent.com/aseprite/aseprite/master/data/icons/ase128.png" />][ase]
+[<img align="left" alt="Blender" width="26px" src="https://avatars2.githubusercontent.com/u/52924476?s=200&v=4" />][blender]
 
 <br />
 <br />
@@ -39,3 +42,6 @@
 [js]: https://github.com/topics/js
 [css]: https://github.com/topics/css
 [html]: https://github.com/topics/html
+[electron]: https://github.com/topics/electron
+[ase]: https://github.com/aseprite/aseprite
+[blender]: https://github.com/topics/blender3d
