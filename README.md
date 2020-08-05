@@ -1,4 +1,4 @@
-### Welcome! I'm [Ionut][website] 👋
+### Hello! I'm [Ionut][website] 👋
 
 ## I'm a Designer, 3D Artist and Web Developer!
 - 🤖 I’m currently working on a [Pizza Joe][bot]!
