@@ -23,7 +23,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
-[<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][https://github.com/topics/atom]
+[<img align="left" alt="Atom.io" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atom]
 
 <br />
 <br />
@@ -33,3 +33,4 @@
 [instagram]: https://instagram.com/ionut.donut
 [linkedin]: https://www.linkedin.com/in/ionut-rogojan-7028b6145/
 [bot]: https://top.gg/bot/723293726515921027
+[atom]: https://github.com/topics/atom
