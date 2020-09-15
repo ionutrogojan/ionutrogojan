@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[website]: https://ionutrogojan.github.io/ionutrogojanportfolio.github.io/
+[website]: https://ionutrogojan.github.io/ionutrogojanportfolio/
 [twitter]: https://twitter.com/ionutRogojan_
 [instagram]: https://instagram.com/ionut.donut
 [linkedin]: https://www.linkedin.com/in/ionut-rogojan-7028b6145/
