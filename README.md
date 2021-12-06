@@ -1,8 +1,8 @@
 ### Hello! I'm [Ionut][website] 👋
 
 ## I'm a Designer, 3D Artist and Web Developer!
-- 🤖 I’m currently working on [Pizza Joe][bot]!
-- 📖 I’m currently learning JavaScript
+- 🤖 I’m currently working on [Random][bot]!
+- 📖 I’m currently learning C++
 - 👀 I’m looking for freelance work
 - 🥅 2020 Goals: Improving my code skills and working on a few projects
 - 😂 Fun fact: If you eat pizza with fork and knife it tastes different
