@@ -4,7 +4,7 @@
 - 🤖 I’m currently working on [Random][bot]!
 - 📖 I’m currently learning C++
 - 👀 I’m looking for freelance work
-- 🥅 2020 Goals: Improving my code skills and working on a few projects
+- 🥅 2022 Goals: Improve my programing skills and work on a few projects
 - 😂 Fun fact: If you eat pizza with fork and knife it tastes different
 
 ### Connect with me:
