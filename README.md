@@ -1,7 +1,7 @@
 ### Hello! I'm [Ionut][website] 👋
 
 ## I'm a Designer, 3D Artist and Web Developer!
-- 🤖 I’m currently working on [Random][bot]!
+- 🤖 I’m currently working on [Grouchy][grouchy]!
 - 📖 I’m currently learning C++
 - 👀 I’m looking for freelance work
 - 🥅 2022 Goals: Improve my programing skills and work on a few projects
@@ -35,7 +35,7 @@
 [twitter]: https://twitter.com/ionutRogojan_
 [instagram]: https://instagram.com/ionut.donut
 [linkedin]: https://www.linkedin.com/in/ionut-rogojan-7028b6145/
-[bot]: https://top.gg/bot/723293726515921027
+[grouchy]: https://ionutrogojan.github.io/grouchy/
 [atom]: https://github.com/topics/atom
 [github]: https://github.com/topics/github
 [node]: https://github.com/topics/node-js
