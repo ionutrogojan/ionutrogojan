@@ -2,7 +2,7 @@
 
 ## I'm a Designer, 3D Artist and Web Developer!
 - 🤖 I’m currently working on [Grouchy][grouchy]!
-- 📖 I’m currently learning C++
+- 📖 I’m currently learning Rust
 - 👀 I’m looking for freelance work
 - 🥅 2022 Goals: Improve my programing skills and work on a few projects
 - 😂 Fun fact: If you eat pizza with fork and knife it tastes different
