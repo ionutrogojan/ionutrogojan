@@ -2,7 +2,7 @@
 
 ### I'm a Designer, 3D Artist and Web Developer!
 
-- 🤖 I’m currently working on [Random][grouchy]!
+- 🤖 I’m currently working on [Random][project]!
 - 📖 I’m currently learning Rust 
 - 👀 I’m looking for freelance work 
 - 🥅 2022 Goals: Improve my programing skills and work on a few projects 
@@ -12,7 +12,6 @@
 [<img align="left" alt="IRP.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="IR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="IR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IR | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,11 +33,10 @@
 <br />
 <br />
 
-[website]: https://ionutrogojan.github.io/ionutrogojanportfolio/
+[website]: https://ionutrogojan.github.io/irp_vanilla/
 [twitter]: https://twitter.com/ionutRogojan_
-[instagram]: https://instagram.com/ionut.donut
 [linkedin]: https://www.linkedin.com/in/ionut-rogojan-7028b6145/
-[grouchy]: https://ionutrogojan.github.io/grouchy/
+[project]: https://github.com/ionutrogojan/webbox/
 [vscodium]: https://github.com/VSCodium
 [github]: https://github.com/topics/github
 [deno]: https://github.com/topics/denoland
