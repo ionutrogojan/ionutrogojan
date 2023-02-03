@@ -1,51 +1,42 @@
-## Hello! I'm [Ionut][website] 👋
+## Hello! I'm [Ionuț](https://en.wikipedia.org/wiki/Ionu%C8%9B) 👋
 
-### I'm a Designer, 3D Artist and Web Developer!
+I write code and make computers go brrrr!
 
-- 🤖 I’m currently working on [Random][project]!
-- 📖 I’m currently learning Rust 
-- 👀 I’m looking for freelance work 
-- 🥅 2022 Goals: Improve my programing skills and work on a few projects 
-- 😂 Fun fact: If you eat pizza with fork and knife it tastes different 
+#
+
+### Here are the { *languages* } I like to use :
+
+- [<img align="center" alt="Rust" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/rust.svg"/> Rust](https://github.com/rust-lang) |
+[<img align="center" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/typescript.svg"/> Typescript](https://github.com/Microsoft/TypeScript) |
+[<img align="center" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/javascript.svg"/> Javascript](https://github.com/tc39) |
+[<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/python.svg"/> Python](https://github.com/python) |
+[<img align="center" alt="CSS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/css.svg"/> CSS](https://github.com/css) |
+[<img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/html.svg"/> HTML](https://github.com/whatwg/html) |
+
+### And the { *tools* } :
+- [<img align="center" alt="Deno" width="26px" src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4"/> Deno](https://github.com/denoland/deno) |
+[<img align="center" alt="Tauri" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tauri.svg"/> Tauri](https://github.com/tauri-apps/tauri) |
+
+### Some { *frameworks* } :
+- [<img align="center" alt="Fresh" width="26px" src="https://raw.githubusercontent.com/denoland/fresh/b11ecae06328e71de8407b0d55cda82c3d943629/www/static/logo.svg"/> Fresh](https://github.com/denoland/fresh) |
+[<img align="center" alt="Preact" width="26px" src="https://avatars.githubusercontent.com/u/26872990?s=200&v=4"/> Preact](https://github.com/preactjs/preact) |
+[<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/react.svg"/> React](https://github.com/facebook/react) |
+[<img align="center" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg"/> Svelte](https://github.com/sveltejs/svelte) |
+
+### And { *software* } :
+
+- [<img align="center" alt="VSCodium" width="26px" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4"/> VSCodium](https://github.com/VSCodium) |
+[<img align="center" alt="Godot" width="26px" src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg"/> Godot](https://github.com/godotengine) |
+[<img align="center" alt="Blender" width="26px" src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4"/> Blender](https://github.com/blender) |
+[<img align="center" alt="LibreSprite" width="26px" src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4"/> LibreSprite](https://github.com/LibreSprite) |
+[<img align="center" alt="RawTherapee" width="26px" src="https://raw.githubusercontent.com/Beep6581/RawTherapee/dev/rtdata/images/rt-logo.svg"/> RawTherapee](https://github.com/Beep6581/RawTherapee) |
+[<img align="center" alt="BirdFont" width="26px" src="https://raw.githubusercontent.com/johanmattssonm/birdfont/master/resources/linux/128x128/birdfont.png"/> BirdFont](https://github.com/johanmattssonm/birdfont) |
+[<img align="center" alt="LibreOffice" width="26px" src="https://avatars.githubusercontent.com/u/5824056?s=200&v=4"/> LibreOffice](https://github.com/LibreOffice) |
+
+#
 
 ### Connect with me:
-[<img align="left" alt="IRP.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="IR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust]
-[<img align="left" alt="Denoland" width="26px" src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4" />][deno]
-[<img align="left" alt="DenoFresh" width="26px" src="https://raw.githubusercontent.com/denoland/fresh/b11ecae06328e71de8407b0d55cda82c3d943629/www/static/logo.svg" />][fresh]
-[<img align="left" alt="Tauri" width="26px" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" />][tauri]
-[<img align="left" alt="Vscodium" width="26px" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4" />][vscodium]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Aseprite" width="26px" src="https://raw.githubusercontent.com/aseprite/aseprite/master/data/icons/ase128.png" />][ase]
-[<img align="left" alt="Blender" width="26px" src="https://avatars2.githubusercontent.com/u/52924476?s=200&v=4" />][blender]
-
-<br />
-<br />
-
-[website]: https://ionutrogojan.github.io/irp_vanilla/
-[twitter]: https://twitter.com/ionutRogojan_
-[linkedin]: https://www.linkedin.com/in/ionut-rogojan-7028b6145/
-[project]: https://github.com/ionutrogojan/webbox/
-[vscodium]: https://github.com/VSCodium
-[github]: https://github.com/topics/github
-[deno]: https://github.com/topics/denoland
-[fresh]: https://github.com/denoland/fresh
-[js]: https://github.com/topics/js
-[ts]: https://github.com/topics/typescript
-[css]: https://github.com/topics/css
-[html]: https://github.com/topics/html
-[tauri]: https://github.com/tauri-apps
-[ase]: https://github.com/aseprite
-[blender]: https://github.com/topics/blender3d
-[rust]: https://github.com/topics/rust
+- [<img align="center" alt="Portfolio" width="26px" src="https://raw.githubusercontent.com/ionutrogojan/irp_vanilla/main/img/favicon.png" /> Portfolio](https://ionutrogojan.github.io/irp_vanilla/) |
+[<img align="center" alt="Twitter" width="26px" src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png" /> Twitter](https://twitter.com/ionutRogojan_) |
+[<img align="center" alt="LinkedIn" width="26px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /> LinkedIn](https://www.linkedin.com/in/ionut-rogojan/) |
