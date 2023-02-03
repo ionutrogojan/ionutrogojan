@@ -14,8 +14,8 @@ I write code and make computers go brrrr!
 [<img align="center" alt="HTML" width="26px" title="HTML" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/html.svg"/>](https://github.com/whatwg/html) |
 
 ### And the { *tools* } :
-- [<img align="center" alt="Deno" width="26px" src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4"/> Deno](https://github.com/denoland/deno) |
-[<img align="center" alt="Tauri" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tauri.svg"/> Tauri](https://github.com/tauri-apps/tauri) |
+- [<img align="center" alt="Deno" width="26px" title="Deno" src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4"/>](https://github.com/denoland/deno) |
+[<img align="center" alt="Tauri" width="26px" title="Tauri" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tauri.svg"/>](https://github.com/tauri-apps/tauri) |
 
 ### Some { *frameworks* } :
 - [<img align="center" alt="Fresh" width="26px" title="Fresh" src="https://raw.githubusercontent.com/denoland/fresh/b11ecae06328e71de8407b0d55cda82c3d943629/www/static/logo.svg"/>](https://github.com/denoland/fresh) |
