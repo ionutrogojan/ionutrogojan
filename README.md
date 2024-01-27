@@ -4,7 +4,6 @@ I write code and make computers go brrrr!
 
 ## Here are the { *languages* } I like to use :
 - [<img align="center" alt="Bash" width="26px" title="Bash" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg"/>](https://github.com/topics/bash) | [<img align="center" alt="C" width="26px" title="C" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/c.svg"/>](https://github.com/topics/c) | [<img align="center" alt="GO" width="26px" title="GO" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/go.svg"/>](https://github.com/golang) | [<img align="center" alt="Rust" width="26px" title="Rust" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/rust.svg"/>](https://github.com/rust-lang) |
- [<img align="center" alt="Typescript" width="26px" title="Typescript" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/typescript.svg"/>](https://github.com/Microsoft/TypeScript) |
 
 ### Some { *tools* } :
 - [<img align="center" alt="Raylib" width="26px" title="Raylib" src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_32x32.png"/>](https://github.com/raysan5/raylib) |
