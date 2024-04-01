@@ -22,7 +22,7 @@ I write code and make computers go brrrr!
 
 #
 
-If you see 🗞️ in the description on one of the repos, it means I am pretty much done with it and it will not receive any more updates.
+🗞️ in the description of any of my repos means the project is done and will only receive minor updates to fix bugs.
 
 ### Connect with me:
 
