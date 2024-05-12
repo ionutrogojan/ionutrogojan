@@ -28,4 +28,4 @@ I write code and make computers go brrrr!
 
 <!-- - [<img align="center" alt="Portfolio" width="26px" title="Portfolio" src="https://raw.githubusercontent.com/ionutrogojan/irp_vanilla/main/img/favicon.png?token=GHSAT0AAAAAACGHQRCA2FRP7VHVN75TJCVKZLJZDTA" />](https://ionutrogojan.github.io/portfolio/) | -->
 - [<img align="center" alt="Twitter" width="26px" title="Twitter" src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png" />](https://twitter.com/ionutRogojan_) |
-[<img align="center" alt="LinkedIn" width="26px" title="LinkedIn" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/ionut-rogojan/) |
+<!-- [<img align="center" alt="LinkedIn" width="26px" title="LinkedIn" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/ionut-rogojan/) | -->
